@@ -1,5 +1,5 @@
 # Seletores alternativos com Cypress
-### Aula extra para os alunos de Qualidade de software da EBAC 
+### Qualidade de software
 
 Ebac shop: http://lojaebac.ebaconline.art.br/
 
@@ -37,9 +37,7 @@ Após abrir o dashboard, selecione um dos navegadores (De preferencia Electron) 
 ### Bibliotecas de apoio:
 -Cypress: Framework de automação: https://cypress.io/
 
-### Bom exercício ;) 
-Fábio & José Ernesto
-Qualidade de software
+
 
 
 
